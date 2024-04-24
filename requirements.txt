@@ -1,0 +1,11 @@
+altair
+numpy
+pandas
+pydeck
+streamlit
+plotly
+openpyxl
+sklearn
+matplotlib
+seaborn
+PyWavelets
